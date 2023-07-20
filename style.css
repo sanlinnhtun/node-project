@@ -1,8 +1,7 @@
 body {
   display: flex;
   justify-content: center;
-
-  background-color: #212529;
+  background-color: #142a27;
 }
 .parent {
   width: 40%;
